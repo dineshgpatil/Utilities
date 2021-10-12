@@ -1,5 +1,5 @@
 # Utilities
- Store general purpose utilities or tools
+General purpose utilities or tools
 
 Description
 
