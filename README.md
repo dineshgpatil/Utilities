@@ -25,6 +25,4 @@ None
 
 Executing program
 
-1. Execute driverScript.py onyour machine.
-
-Help
+1. Execute driverScript.py using the python interpreter or through one of your favorite IDE.
